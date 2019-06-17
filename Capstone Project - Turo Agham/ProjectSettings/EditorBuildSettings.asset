@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main.unity
+    guid: 6e425fc501db5dd48924a65a68c4747d
+  - enabled: 1
+    path: Assets/MyAssets/All Scene/Learn_SolarSystem.unity
+    guid: 2d5576e5512e7024090c0db6d7dbff82
+  - enabled: 1
+    path: Assets/MyAssets/All Scene/Learn_Animals.unity
+    guid: f47e14e2b45238f48bd8a17852886019
+  - enabled: 1
+    path: Assets/MyAssets/All Scene/Learn_Weather.unity
+    guid: f51b3d062db6a4a4d8004d473aa39de8
+  - enabled: 1
+    path: Assets/MyAssets/All Scene/Learn_KnowYourBodyParts.unity
+    guid: d5ffbdd283c666c46a5cc281f5295c28
+  - enabled: 1
+    path: Assets/MyAssets/All Scene/Learn_SpeakUpBodyParts.unity
+    guid: 2af156516a9725746925c9a05eecd862
+  - enabled: 1
+    path: Assets/MyAssets/All Scene/Scan_SolarSystem.unity
+    guid: 21d1a82380e170c4081d1e3d78b96610
+  - enabled: 1
+    path: Assets/MyAssets/All Scene/Scan_Animal.unity
+    guid: 43279a9b24e509e4e90a6ada7eca33ec
+  - enabled: 1
+    path: Assets/MyAssets/All Scene/Scan_Weather.unity
+    guid: 8fab14f0e36bc8b4facb550794b89d5e
+  - enabled: 1
+    path: Assets/MyAssets/All Scene/Scan_HumanAnatomy.unity
+    guid: 5bce9f58cbd559248925e416a70c9366
+  - enabled: 1
+    path: Assets/MyAssets/Games/Multiple Choice (Image)/IMC_SolarSystem.unity
+    guid: 62c8990d444b26947849d2ce65ed193d
+  - enabled: 1
+    path: Assets/MyAssets/Games/Multiple Choice (Image)/IMC_Animal.unity
+    guid: 41d3a485b5862ad4eb1179d8579d36a6
+  - enabled: 1
+    path: Assets/MyAssets/Games/Multiple Choice (Image)/IMC_Weather.unity
+    guid: c581416d6eea6dd43bc506dc966e97d3
+  - enabled: 1
+    path: Assets/MyAssets/Games/Multiple Choice (Image)/IMC_HumanAnatomy.unity
+    guid: efa36ef1c92114b46b503da4869fe342
+  - enabled: 1
+    path: Assets/MyAssets/Games/True or False/TOF_SolarSystem.unity
+    guid: cb4a612dd5b99e5438d2673aa5a742a6
+  - enabled: 1
+    path: Assets/MyAssets/Games/True or False/TOF_Animal.unity
+    guid: 756fe1c4c21294c4f945aaf381e1c0e1
+  - enabled: 1
+    path: Assets/MyAssets/Games/True or False/TOF_Weather.unity
+    guid: 39b44601b66c708418b0cde50dccbe0d
+  - enabled: 1
+    path: Assets/MyAssets/Games/True or False/TOF_HumanAnatomy.unity
+    guid: 926e5c32eeacaa143908f221e5952b1c
+  - enabled: 1
+    path: Assets/MyAssets/Games/Sound Quiz/SoundQuiz_Animal.unity
+    guid: 57f2558cf2bba8643977a2ff0b0f8938
+  - enabled: 1
+    path: Assets/MyAssets/Games/Drag And Drop 2D Puzzle/DragAndDrop_Planet.unity
+    guid: 37067522325ae914fb0826bf13439b6a
+  - enabled: 1
+    path: Assets/MyAssets/Games/Drag And Drop 2D Puzzle/DragAndDrop_Animal.unity
+    guid: 2d8a50fe8d504674e8e43660d1801c10
+  - enabled: 1
+    path: Assets/MyAssets/All Scene/Learn_HumanSenses (Do).unity
+    guid: 210d7a98908587a41bed6d2423f642cc
+  - enabled: 1
+    path: Assets/MyAssets/All Scene/Animal_RTD.unity
+    guid: d06f48543928936418d16463f2ef92ab
+  - enabled: 1
+    path: Assets/MyAssets/Games/Matching Card/Matching Card.unity
+    guid: 6362be2e1c4e336449e96b2c3e025510
+  - enabled: 1
+    path: Assets/MyAssets/Games/Drag And Drop 2D Puzzle/DragAndDrop_Weather.unity
+    guid: a20bae0126ab3434fb509ab290fedd0b
+  - enabled: 1
+    path: Assets/MyAssets/All Scene/ARPoster.unity
+    guid: 5db8f4deb862535489066bc5b4f8e231

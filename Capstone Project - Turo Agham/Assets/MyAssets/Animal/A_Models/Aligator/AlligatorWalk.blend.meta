@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: f37f15f7c3f44aa4b8a7f26360ff1991
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: BackFootLeft
+    100006: BackFootRight
+    100008: Bone
+    100010: Bone_001
+    100012: Bone_002
+    100014: Bone_007
+    100016: Bone_008
+    100018: Bone_009
+    100020: Bone_010
+    100022: Bone_011
+    100024: Bone_012
+    100026: FrontLeftFoot
+    100028: FrontRightFoot
+    100030: FrontShoulder
+    100032: FrontShoulder_001
+    100034: FrontShoulder_002
+    100036: FrontShoulder_003
+    100038: FrontShoulder_004
+    100040: FrontShoulder_005
+    100042: FrontShoulder_006
+    100044: FrontShoulder_007
+    100046: Head
+    100048: Hip
+    100050: Jaw
+    100052: LowerJaw
+    100054: Neck
+    100056: polygons01
+    100058: Snout
+    100060: Spine
+    100062: Tail1
+    100064: Tail2
+    100066: TailBone
+    100068: UpperJaw
+    400000: //RootNode
+    400002: Armature
+    400004: BackFootLeft
+    400006: BackFootRight
+    400008: Bone
+    400010: Bone_001
+    400012: Bone_002
+    400014: Bone_007
+    400016: Bone_008
+    400018: Bone_009
+    400020: Bone_010
+    400022: Bone_011
+    400024: Bone_012
+    400026: FrontLeftFoot
+    400028: FrontRightFoot
+    400030: FrontShoulder
+    400032: FrontShoulder_001
+    400034: FrontShoulder_002
+    400036: FrontShoulder_003
+    400038: FrontShoulder_004
+    400040: FrontShoulder_005
+    400042: FrontShoulder_006
+    400044: FrontShoulder_007
+    400046: Head
+    400048: Hip
+    400050: Jaw
+    400052: LowerJaw
+    400054: Neck
+    400056: polygons01
+    400058: Snout
+    400060: Spine
+    400062: Tail1
+    400064: Tail2
+    400066: TailBone
+    400068: UpperJaw
+    2100000: _1___Default__SKIN-COLOR_jpg
+    2100002: Material__37__SKIN-COLOR_jpg
+    2100004: Material__38__SKIN-COLOR_jpg
+    2100006: Material__39__SKIN-COLOR_jpg
+    2100008: Material__40__SKIN-COLOR_jpg
+    2100010: Material__41__SKIN-COLOR_jpg
+    2100012: Material__42__SKIN-COLOR_jpg
+    2100014: Material__43__SKIN-COLOR_jpg
+    2100016: Material__44__SKIN-COLOR_jpg
+    2100018: _1___Default
+    2100020: Material__37
+    2100022: Material__38
+    2100024: Material__39
+    2100026: Material__40
+    2100028: Material__41
+    2100030: Material__42
+    2100032: Material__43
+    2100034: Material__44
+    4300000: polygons01
+    7400000: Default Take
+    7400002: ArmatureAction
+    7400004: ArmatureAction (1)
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polygons01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ArmatureAction (1)
+      takeName: ArmatureAction
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ArmatureAction
+      takeName: ArmatureAction
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

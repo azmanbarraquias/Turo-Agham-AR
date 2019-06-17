@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="SolarSystemCylinderTarget" version="3.0" targetId="e1413e0928224d0b91796a18c3bfaa25" sideLength="24.000000" topDiameter="7.643310" bottomDiameter="7.643310" sideImage="SolarSystemCylinderTarget.Body_scaled.jpg" topImage="SolarSystemCylinderTarget.Top_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>

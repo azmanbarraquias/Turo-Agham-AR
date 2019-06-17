@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 7104bb8c5fc14d640ad824450d363dfa
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: KOMOcl01
+    100002: KOMOcl02
+    100004: KOMOcl03
+    100006: KOMOcl04
+    100008: KOMOcl05
+    100010: KOMOcl06
+    100012: KOMOcl07
+    100014: KOMOcl08
+    100016: KOMOcl09
+    100018: KOMOcl10
+    100020: KOMOcl11
+    100022: KOMOcl12
+    100024: KOMOcl13
+    100026: KOMOcl14
+    100028: KOMOcl15
+    100030: KOMOcl17
+    100032: KOMOcl18
+    100034: KOMOcl19
+    100036: KOMOcl20
+    100038: KOMOcl21
+    100040: //RootNode
+    100042: KOMOeye1
+    100044: KOMOeye2
+    100046: KOMOgls1
+    100048: KOMOgls2
+    100050: KOMOpup1
+    100052: KOMOpup2
+    400000: KOMOcl01
+    400002: KOMOcl02
+    400004: KOMOcl03
+    400006: KOMOcl04
+    400008: KOMOcl05
+    400010: KOMOcl06
+    400012: KOMOcl07
+    400014: KOMOcl08
+    400016: KOMOcl09
+    400018: KOMOcl10
+    400020: KOMOcl11
+    400022: KOMOcl12
+    400024: KOMOcl13
+    400026: KOMOcl14
+    400028: KOMOcl15
+    400030: KOMOcl17
+    400032: KOMOcl18
+    400034: KOMOcl19
+    400036: KOMOcl20
+    400038: KOMOcl21
+    400040: //RootNode
+    400042: KOMOeye1
+    400044: KOMOeye2
+    400046: KOMOgls1
+    400048: KOMOgls2
+    400050: KOMOpup1
+    400052: KOMOpup2
+    2100000: KOMOLEFT
+    2100002: KOMOTOP
+    2100004: KOMOBOTT
+    2100006: KOMOLEG
+    2100008: 'Material #2043'
+    2100010: 'Material #2044'
+    2100012: 'Material #2045'
+    2100014: 'Material #2046'
+    2100016: 'Material #2047'
+    2100018: KOMOARM
+    2100020: 'Material #2048'
+    2100022: 'Material #2049'
+    2100024: 'Material #2050'
+    2100026: 'Material #2051'
+    2100028: 'Material #2052'
+    2100030: KOMOCLAW
+    2100032: KOMOPUPL
+    2100034: KOMOEYE
+    2100036: KOMOGLS
+    2300000: KOMOcl01
+    2300002: KOMOcl02
+    2300004: KOMOcl03
+    2300006: KOMOcl04
+    2300008: KOMOcl05
+    2300010: KOMOcl06
+    2300012: KOMOcl07
+    2300014: KOMOcl08
+    2300016: KOMOcl09
+    2300018: KOMOcl10
+    2300020: KOMOcl11
+    2300022: KOMOcl12
+    2300024: KOMOcl13
+    2300026: KOMOcl14
+    2300028: KOMOcl15
+    2300030: KOMOcl17
+    2300032: KOMOcl18
+    2300034: KOMOcl19
+    2300036: KOMOcl20
+    2300038: KOMOcl21
+    2300040: //RootNode
+    2300042: KOMOeye1
+    2300044: KOMOeye2
+    2300046: KOMOgls1
+    2300048: KOMOgls2
+    2300050: KOMOpup1
+    2300052: KOMOpup2
+    3300000: KOMOcl01
+    3300002: KOMOcl02
+    3300004: KOMOcl03
+    3300006: KOMOcl04
+    3300008: KOMOcl05
+    3300010: KOMOcl06
+    3300012: KOMOcl07
+    3300014: KOMOcl08
+    3300016: KOMOcl09
+    3300018: KOMOcl10
+    3300020: KOMOcl11
+    3300022: KOMOcl12
+    3300024: KOMOcl13
+    3300026: KOMOcl14
+    3300028: KOMOcl15
+    3300030: KOMOcl17
+    3300032: KOMOcl18
+    3300034: KOMOcl19
+    3300036: KOMOcl20
+    3300038: KOMOcl21
+    3300040: //RootNode
+    3300042: KOMOeye1
+    3300044: KOMOeye2
+    3300046: KOMOgls1
+    3300048: KOMOgls2
+    3300050: KOMOpup1
+    3300052: KOMOpup2
+    4300000: KOMODOL
+    4300002: KOMOcl01
+    4300004: KOMOcl02
+    4300006: KOMOcl03
+    4300008: KOMOcl04
+    4300010: KOMOcl05
+    4300012: KOMOcl06
+    4300014: KOMOcl07
+    4300016: KOMOcl08
+    4300018: KOMOcl09
+    4300020: KOMOcl10
+    4300022: KOMOcl11
+    4300024: KOMOcl12
+    4300026: KOMOcl13
+    4300028: KOMOcl14
+    4300030: KOMOcl15
+    4300032: KOMOcl17
+    4300034: KOMOcl18
+    4300036: KOMOcl19
+    4300038: KOMOcl20
+    4300040: KOMOcl21
+    4300042: KOMOpup1
+    4300044: KOMOeye1
+    4300046: KOMOgls1
+    4300048: KOMOpup2
+    4300050: KOMOeye2
+    4300052: KOMOgls2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

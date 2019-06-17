@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: f8f02b3c9d5515741b9518165dfb6297
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone_006
+    100004: Bone_007
+    100006: Bone_008
+    100008: Bone_011
+    100010: Bone_022
+    100012: Bone_023
+    100014: Bone_024
+    100016: Bone_025
+    100018: Bone_026
+    100020: Bone_027
+    100022: Bone_028
+    100024: Bone_029
+    100026: Bone_030
+    100028: Bone_031
+    100030: Bone_032
+    100032: Bone_033
+    100034: Bone_034
+    100036: Ear_L
+    100038: Ear_R
+    100040: Face
+    100042: //RootNode
+    100044: FrontPaw_L
+    100046: FrontPaw_R
+    100048: FrontShoulder_L
+    100050: FrontShoulder_R
+    100052: FrontUpper_L
+    100054: FrontUpper_R
+    100056: LowerFront_L
+    100058: LowerFront_R
+    100060: MidFront_L
+    100062: MidFront_R
+    100064: Neck
+    100066: Spine
+    100068: Spine1
+    100070: Spine2
+    100072: Spine3
+    100074: Tibetan_Hill_Fox
+    400000: Armature
+    400002: Bone_006
+    400004: Bone_007
+    400006: Bone_008
+    400008: Bone_011
+    400010: Bone_022
+    400012: Bone_023
+    400014: Bone_024
+    400016: Bone_025
+    400018: Bone_026
+    400020: Bone_027
+    400022: Bone_028
+    400024: Bone_029
+    400026: Bone_030
+    400028: Bone_031
+    400030: Bone_032
+    400032: Bone_033
+    400034: Bone_034
+    400036: Ear_L
+    400038: Ear_R
+    400040: Face
+    400042: //RootNode
+    400044: FrontPaw_L
+    400046: FrontPaw_R
+    400048: FrontShoulder_L
+    400050: FrontShoulder_R
+    400052: FrontUpper_L
+    400054: FrontUpper_R
+    400056: LowerFront_L
+    400058: LowerFront_R
+    400060: MidFront_L
+    400062: MidFront_R
+    400064: Neck
+    400066: Spine
+    400068: Spine1
+    400070: Spine2
+    400072: Spine3
+    400074: Tibetan_Hill_Fox
+    2100000: Tibetan_Hill_Fox__Tibetan_Hill_Fox_dif_jpg
+    4300000: Tibetan_Hill_Fox
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    13700000: Tibetan_Hill_Fox
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

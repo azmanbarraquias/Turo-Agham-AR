@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="TuroAghamPoster" size="17.000000 42.510380" />
+    <ImageTarget name="SeaLion" size="3.000000 4.500000" />
+    <ImageTarget name="Tiger" size="3.000000 4.500000" />
+    <ImageTarget name="Lion" size="3.000000 4.500000" />
+    <ImageTarget name="Horse" size="3.000000 4.500000" />
+    <ImageTarget name="Rhinoceros" size="3.000000 4.500000" />
+    <ImageTarget name="Giraffe" size="3.000000 4.500000" />
+    <ImageTarget name="Eagle" size="3.000000 4.500000" />
+    <ImageTarget name="Crocodile" size="3.000000 4.500000" />
+    <ImageTarget name="Cat" size="3.000000 4.500000" />
+    <ImageTarget name="Bear" size="3.000000 4.500000" />
+    <ImageTarget name="Alligator" size="3.000000 4.500000" />
+    <ImageTarget name="Gorilla" size="3.000000 4.500000" />
+    <ImageTarget name="Kangaroo" size="500.000000 750.000000" />
+    <ImageTarget name="Komodo" size="500.000000 750.000000" />
+    <ImageTarget name="Octopus" size="500.000000 750.000000" />
+    <ImageTarget name="Pelican" size="500.000000 750.000000" />
+    <ImageTarget name="Pluto" size="300.000000 450.000000" />
+    <ImageTarget name="Venus" size="3.000000 4.500000" />
+    <ImageTarget name="Uranus" size="3.000000 4.500000" />
+    <ImageTarget name="Saturn" size="3.000000 4.500000" />
+    <ImageTarget name="Jupiter" size="3.000000 4.500000" />
+    <ImageTarget name="Neptune" size="3.000000 4.500000" />
+    <ImageTarget name="Mercury" size="3.000000 4.500000" />
+    <ImageTarget name="Mars" size="3.000000 4.500000" />
+    <ImageTarget name="Sun" size="5.000000 7.500000" />
+    <ImageTarget name="Earth" size="3.000000 4.500000" />
+    <ImageTarget name="WeatherTarget" size="8.000000 5.620458" />
+    <ImageTarget name="HumanImageTarget" size="600.000000 421.016937" />
+    <ImageTarget name="duck" size="3.000000 3.000000" />
+    <CylinderTarget name="SolarSystemCylinderTarget" sideLength="24.000000"/>
+  </Tracking>
+</QCARConfig>
