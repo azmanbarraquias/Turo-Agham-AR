@@ -45,8 +45,14 @@ public class TF_QuestionManager : MonoBehaviour {
 	//string correctQuestion; // store the correct question
 	private int currentNoQestion;
 
+	string ans;
+
 	int total = 0;
 	string result;
+
+	//Wrong
+	public TextMeshProUGUI wrongAnswerCorrection;
+
     [Space]
     public string achievementName;
 
@@ -115,11 +121,10 @@ public class TF_QuestionManager : MonoBehaviour {
 		}
 		else
 		{
-
+			WrongAnswerCorrection();
             audioSource.Stop();
             audioSource.clip = wrongSound;
             audioSource.Play();
-
             answer.SetTrigger("Wrong");
 		}
 	}
@@ -129,7 +134,6 @@ public class TF_QuestionManager : MonoBehaviour {
 		if (currentQuestion.isFalse == true)
 		{
 			total++;
-
             audioSource.Stop();
             audioSource.clip = correctSound;
             audioSource.Play();
@@ -138,14 +142,28 @@ public class TF_QuestionManager : MonoBehaviour {
 		}
 		else
 		{
-
+			WrongAnswerCorrection();
             audioSource.Stop();
             audioSource.clip = wrongSound;
             audioSource.Play();
-
             answer.SetTrigger("Wrong");
 		}
 	}
+
+	public void WrongAnswerCorrection()
+	{
+		
+		if (currentQuestion.isTrue == true)
+		{
+			ans = "TRUE";	
+		}
+		else
+		{
+			ans = "FALSE";	
+		}	
+		wrongAnswerCorrection.text =  currentQuestion.question +"\nThe Answer is "+ans;
+	}
+
 	#endregion
 
 	#region GetNextAnswer
