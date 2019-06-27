@@ -42,6 +42,8 @@ public class MCIMG_QuestionManager : MonoBehaviour {
 
 	int total = 0;
 	string result;
+	string ans;
+	public Image correctImgAnswer;
 
     public AudioSource aSource;
     public AudioClip audioClip;
@@ -59,6 +61,11 @@ public class MCIMG_QuestionManager : MonoBehaviour {
     public void StartGame()
 	{
 		GetRandomQuestion(); // When start the game we want to load the questions
+	}
+
+	public void WrongAnswerCorrection()
+	{	
+		correctImgAnswer.sprite = currentQuestion.correctIMG;
 	}
 
 	#region GetRandomQuestionMethod
@@ -116,6 +123,10 @@ public class MCIMG_QuestionManager : MonoBehaviour {
             aSource.clip = wrongSound;
             aSource.Play();
             answer.SetTrigger("Wrong");
+			if (correctImgAnswer!=null)
+			{
+				correctImgAnswer.sprite = currentQuestion.correctIMG;
+			}
 		}
 	}
 
@@ -135,6 +146,10 @@ public class MCIMG_QuestionManager : MonoBehaviour {
             aSource.clip = wrongSound;
             aSource.Play();
             answer.SetTrigger("Wrong");
+			if (correctImgAnswer!=null)
+			{
+				correctImgAnswer.sprite = currentQuestion.correctIMG;
+			}
 		}
 	}
 
@@ -154,6 +169,10 @@ public class MCIMG_QuestionManager : MonoBehaviour {
             aSource.clip = wrongSound;
             aSource.Play();
             answer.SetTrigger("Wrong");
+			if (correctImgAnswer!=null)
+			{
+				correctImgAnswer.sprite = currentQuestion.correctIMG;
+			}
 		}
 	}
 	#endregion

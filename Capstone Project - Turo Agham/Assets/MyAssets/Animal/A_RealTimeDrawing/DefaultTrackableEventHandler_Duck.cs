@@ -18,6 +18,8 @@ public class DefaultTrackableEventHandler_Duck : MonoBehaviour, ITrackableEventH
     #region PROTECTED_MEMBER_VARIABLES
 
     protected TrackableBehaviour mTrackableBehaviour;
+    public AudioSource audioSource;
+    public AudioClip aClip;
 
     #endregion // PROTECTED_MEMBER_VARIABLES
 
@@ -75,6 +77,7 @@ public class DefaultTrackableEventHandler_Duck : MonoBehaviour, ITrackableEventH
 
     protected virtual void OnTrackingFound()
     {
+        audioSource.PlayOneShot(aClip);
         var rendererComponents = GetComponentsInChildren<Renderer>(true);
         var colliderComponents = GetComponentsInChildren<Collider>(true);
         var canvasComponents = GetComponentsInChildren<Canvas>(true);
