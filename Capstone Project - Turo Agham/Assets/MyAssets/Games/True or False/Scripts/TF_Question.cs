@@ -1,8 +1,7 @@
 ﻿using UnityEngine;
 
 [System.Serializable]
-public class TF_Question 
-{
+public class TF_Question {
 
 	[Header("Question")]
 	public string question;

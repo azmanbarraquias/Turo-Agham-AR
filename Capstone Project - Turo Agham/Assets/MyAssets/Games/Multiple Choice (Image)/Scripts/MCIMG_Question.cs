@@ -22,6 +22,4 @@ public class MCIMG_Question
 	[Space]
 	public bool button3;
 	public Sprite button3IMG;
-
-	public Sprite correctIMG;
 }

@@ -2063,74 +2063,6 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
---- !u!1 &716118451
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 5
-  m_Component:
-  - component: {fileID: 716118452}
-  - component: {fileID: 716118454}
-  - component: {fileID: 716118453}
-  m_Layer: 5
-  m_Name: Image
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &716118452
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 716118451}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.0000076278693}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1010564592}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -56, y: -28}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &716118453
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 716118451}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 0
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 0}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
---- !u!222 &716118454
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 716118451}
 --- !u!1001 &819427102
 Prefab:
   m_ObjectHideFlags: 0
@@ -6044,75 +5976,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!1 &1010564591
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 5
-  m_Component:
-  - component: {fileID: 1010564592}
-  - component: {fileID: 1010564594}
-  - component: {fileID: 1010564593}
-  m_Layer: 5
-  m_Name: WrongAnswer
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1010564592
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1010564591}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -95}
-  m_LocalScale: {x: 1.0001999, y: 1.0001999, z: 1.0001999}
-  m_Children:
-  - {fileID: 716118452}
-  m_Father: {fileID: 2008267621}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 0, y: -50}
-  m_SizeDelta: {x: -528.5, y: 127.4}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1010564593
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1010564591}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 64bc1d767fc7eb644aaf1c3da45d7f4f, type: 3}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
---- !u!222 &1010564594
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1010564591}
 --- !u!1 &1012239389
 GameObject:
   m_ObjectHideFlags: 0
@@ -6201,7 +6064,6 @@ MonoBehaviour:
     button2IMG: {fileID: 21300000, guid: 59d6788386f099744b505b713c5e2068, type: 3}
     button3: 0
     button3IMG: {fileID: 21300000, guid: 6f4e15185a5152941a891223a561b468, type: 3}
-    correctIMG: {fileID: 21300000, guid: 1fa70750cbc4f0145bcc11e7f0db4300, type: 3}
   - question: Known as a dwarf planet and second closet to the Sun of its kind
     images: {fileID: 0}
     sound: {fileID: 8300000, guid: f0b2626c41a843c4b9118c277c835961, type: 3}
@@ -6211,7 +6073,6 @@ MonoBehaviour:
     button2IMG: {fileID: 21300000, guid: 570b2317ddf755f44b232a351e38a2e7, type: 3}
     button3: 1
     button3IMG: {fileID: 21300000, guid: 59d6788386f099744b505b713c5e2068, type: 3}
-    correctIMG: {fileID: 21300000, guid: 59d6788386f099744b505b713c5e2068, type: 3}
   - question: The second biggest planet.
     images: {fileID: 0}
     sound: {fileID: 8300000, guid: 53b6e229f5a58d2479f87bc00cf7f066, type: 3}
@@ -6221,7 +6082,6 @@ MonoBehaviour:
     button2IMG: {fileID: 21300000, guid: 59d6788386f099744b505b713c5e2068, type: 3}
     button3: 1
     button3IMG: {fileID: 21300000, guid: 80e0e7105885d104c9659341a0b1576e, type: 3}
-    correctIMG: {fileID: 21300000, guid: 80e0e7105885d104c9659341a0b1576e, type: 3}
   - question: The Great Red Spot and the Largest Planet
     images: {fileID: 0}
     sound: {fileID: 8300000, guid: e35eefb38a9421046929f863c09d4477, type: 3}
@@ -6231,7 +6091,6 @@ MonoBehaviour:
     button2IMG: {fileID: 21300000, guid: 9e0e17a0d74c5d14c85e5bbbafc8852a, type: 3}
     button3: 0
     button3IMG: {fileID: 21300000, guid: afea8cd5a318f1448b0ce7879a8da612, type: 3}
-    correctIMG: {fileID: 21300000, guid: 9e0e17a0d74c5d14c85e5bbbafc8852a, type: 3}
   - question: ' The brightest planet in our sky.'
     images: {fileID: 0}
     sound: {fileID: 8300000, guid: ed5c6a0696bf4834fa2d9f8927079fff, type: 3}
@@ -6241,7 +6100,6 @@ MonoBehaviour:
     button2IMG: {fileID: 21300000, guid: a130fbea334b5f74a8202eba974e67b7, type: 3}
     button3: 0
     button3IMG: {fileID: 21300000, guid: 9e0e17a0d74c5d14c85e5bbbafc8852a, type: 3}
-    correctIMG: {fileID: 21300000, guid: a130fbea334b5f74a8202eba974e67b7, type: 3}
   - question: The planet closest to the Sun.
     images: {fileID: 0}
     sound: {fileID: 8300000, guid: 7a1d0c7a01ac1b246a4e8e08dfeb95ba, type: 3}
@@ -6251,7 +6109,6 @@ MonoBehaviour:
     button2IMG: {fileID: 21300000, guid: afea8cd5a318f1448b0ce7879a8da612, type: 3}
     button3: 0
     button3IMG: {fileID: 21300000, guid: 6f4e15185a5152941a891223a561b468, type: 3}
-    correctIMG: {fileID: 21300000, guid: f8478954f1f710d4a83c422f42153c7d, type: 3}
   - question: Planet with a Beautiful blue color
     images: {fileID: 0}
     sound: {fileID: 8300000, guid: 1dae9f549583c434ea5758992b55f03b, type: 3}
@@ -6261,7 +6118,6 @@ MonoBehaviour:
     button2IMG: {fileID: 21300000, guid: 2bedfbaa58d238e428e09293215ce0b7, type: 3}
     button3: 1
     button3IMG: {fileID: 21300000, guid: afea8cd5a318f1448b0ce7879a8da612, type: 3}
-    correctIMG: {fileID: 21300000, guid: afea8cd5a318f1448b0ce7879a8da612, type: 3}
   - question: The seventh planet in the Solar System.
     images: {fileID: 0}
     sound: {fileID: 8300000, guid: d248bd9ba06d5984bbd3d1d3bbfeef6a, type: 3}
@@ -6271,7 +6127,6 @@ MonoBehaviour:
     button2IMG: {fileID: 21300000, guid: a130fbea334b5f74a8202eba974e67b7, type: 3}
     button3: 1
     button3IMG: {fileID: 21300000, guid: 2bedfbaa58d238e428e09293215ce0b7, type: 3}
-    correctIMG: {fileID: 21300000, guid: 2bedfbaa58d238e428e09293215ce0b7, type: 3}
   - question: Has more exposed water than land.
     images: {fileID: 0}
     sound: {fileID: 8300000, guid: 424bc354778079342a9578a0a616fccb, type: 3}
@@ -6281,7 +6136,6 @@ MonoBehaviour:
     button2IMG: {fileID: 21300000, guid: 6f4e15185a5152941a891223a561b468, type: 3}
     button3: 0
     button3IMG: {fileID: 21300000, guid: f8478954f1f710d4a83c422f42153c7d, type: 3}
-    correctIMG: {fileID: 21300000, guid: 6f4e15185a5152941a891223a561b468, type: 3}
   - question: The ___ gives life to the Earth and the Earth would have no life at
       all without the energy it receives from the it.
     images: {fileID: 0}
@@ -6292,8 +6146,6 @@ MonoBehaviour:
     button2IMG: {fileID: 21300000, guid: 570b2317ddf755f44b232a351e38a2e7, type: 3}
     button3: 0
     button3IMG: {fileID: 21300000, guid: 1fa70750cbc4f0145bcc11e7f0db4300, type: 3}
-    correctIMG: {fileID: 21300000, guid: 570b2317ddf755f44b232a351e38a2e7, type: 3}
-  correctImgAnswer: {fileID: 716118453}
   aSource: {fileID: 1536178629}
   audioClip: {fileID: 8300000, guid: b20403e648303ad47a36a489dc308668, type: 3}
   correctSound: {fileID: 8300000, guid: 9ff5e91f4fdb8604bbd2f186e8aa5486, type: 3}
@@ -11829,7 +11681,6 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 820018367}
-  - {fileID: 1010564592}
   m_Father: {fileID: 1145354504}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
