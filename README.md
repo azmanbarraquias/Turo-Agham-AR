@@ -33,6 +33,6 @@ Download [Turo Agham APK](https://play.google.com/store/apps/details?id=com.CCS.
 - - - -  - - -  
 Project Team: Creative Code Studio  
 <b>Colloquium Award Winning 2019 - Outstanding Computer Studies Research</b>
-![Image of Turo Agham from ImgBB](https://i.ibb.co/Ss7Frhs/Prof-ko.jpg)
+
 
 - - - - - - - -  
