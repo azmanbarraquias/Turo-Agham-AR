@@ -33,6 +33,15 @@ Download [Turo Agham APK](https://play.google.com/store/apps/details?id=com.CCS.
 - - - -  - - -  
 Project Team: Creative Code Studio  
 <b>Colloquium Award Winning 2019 - Outstanding Computer Studies Research</b>
-
+![Image of Turo Agham from ImgBB](httpsi.ibb.coSs7FrhsProf-ko.jpg)
 
 - - - - - - - -  
+<br />
+<b>First Place in Android - Productivity Category Competition in 9th IT Skills Olympics<b>
+![Image of Turo Agham from ImgBB](httpsi.ibb.coSs7FrhsProf-ko.jpg)
+
+https://i.ibb.co/GQG5r7J/69843325-881715125543433-6948859809043054592-n.jpg
+- - - - - - - - 
+<br />
+<b>First Place in Android - Productivity Category Competition in 9th IT Skills Olympics<b>
+![Image of Turo Agham from ImgBB](https://i.ibb.co/GQG5r7J/69843325-881715125543433-6948859809043054592-n.jpg)
