@@ -30,5 +30,17 @@ Mini Game - Drag and drop, Card Matching, Connect the dots, Sound guessing, True
 
 Download [Turo Agham APK](https://play.google.com/store/apps/details?id=com.CCS.TuroAghamCS2).
 
+-------------
+Project Team: Creative Code Studio  
+<p align="center">
+<b>Colloquium Award Winning 2019 - Outstanding Computer Studies Research</b>
+<br/ >
+<img src="https://i.ibb.co/Ss7Frhs/Prof-ko.jpg" width="550" height="400" />
+</p>
+<p align="center">
+<b>First Place in Android - Productivity Category Competition in 9th IT Skills Olympics </b>
+<br />
+<img src="https://i.ibb.co/GQG5r7J/69843325-881715125543433-6948859809043054592-n.jpg" width="230" height="400" />
+</p>
 
 
